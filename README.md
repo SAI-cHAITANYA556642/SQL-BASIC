@@ -1,5 +1,6 @@
 # SQL-BASIC
-MODULE 1 — SQL BASICS
+
+#MODULE 1 — SQL BASICS
 What is SQL?
 What is MySQL?
 Database
