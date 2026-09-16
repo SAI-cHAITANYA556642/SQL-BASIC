@@ -1,61 +1,61 @@
 # SQL-BASIC
 
 #MODULE 1 — SQL BASICS
-What is SQL?
-What is MySQL?
-Database
-Table
-Row
-Column
-Data Types
-Primary Key
-CREATE DATABASE
-USE
-CREATE TABLE
-DROP TABLE
-INSERT INTO
-SELECT
-SELECT DISTINCT
-LIMIT
+#What is SQL?
+#What is MySQL?
+#Database
+#Table
+#Row
+#Column
+#Data Types
+#Primary Key
+#CREATE DATABASE
+#USE
+#CREATE TABLE
+#DROP TABLE
+#INSERT INTO
+#SELECT
+#SELECT DISTINCT
+#LIMIT
 
 # MODULE 2 — FILTERING DATA
-WHERE
-Comparison Operators
-=
-!=
->
-<
->=
-<=
-AND
-OR
-NOT
-IN
-NOT IN
-BETWEEN
-LIKE
-Wildcards % and _
-IS NULL
-IS NOT NULL
+#WHERE
+#Comparison Operators
+#=
+#!=
+#>
+#<
+#>=
+#<=
+#AND
+#OR
+#NOT
+#IN
+#NOT IN
+#BETWEEN
+#LIKE
+#Wildcards % and _
+#IS NULL
+#IS NOT NULL
 #MODULE 3 — SORTING & GROUPING
-ORDER BY
-ASC
-DESC
-GROUP BY
-HAVING
-WHERE vs HAVING
+#ORDER BY
+#ASC
+#DESC
+#GROUP BY
+#HAVING
+#WHERE vs HAVING
 #MODULE 4 — AGGREGATE FUNCTIONS
-COUNT()
-COUNT(*)
-COUNT(column)
-COUNT(DISTINCT)
-SUM()
-AVG()
-MIN()
-MAX()
-Aggregate Functions with GROUP BY
+#COUNT()
+#COUNT(*)
+#COUNT(column)
+#COUNT(DISTINCT)
+#SUM()
+#AVG()
+#MIN()
+#MAX()
+#Aggregate Functions with GROUP BY
 #MODULE 5 — SQL OPERATORS & CONDITIONS
-Arithmetic Operators
+#Arithmetic Operators
 Comparison Operators
 Logical Operators
 Conditional Logic
